@@ -2,7 +2,7 @@
 
 # 📌 Project Overview
 
-This project aims to classify respiratory diseases using lung sound recordings and machine learning techniques. The system is capable of identifying Normal and abnormal respiratory conditions such as Asthma, COPD, Heart Failure, and Pleural Effusion. It also supports real-time audio input using a microphone.The project is implemented using Python and executed entirely through VS Code.
+This project aims to classify respiratory diseases using lung sound recordings and machine learning techniques. The system is capable of identifying Normal and abnormal respiratory conditions such as Asthma, COPD, Heart Failure, and Pleural Effusion. It also supports real-time audio input using a microphone.The project is implemented using Python.
 
 # 🎯 Objectives
 
